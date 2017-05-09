@@ -1,0 +1,11 @@
+html {
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+* {
+  font-family: inherit;
+}
+
+.hidden{
+  display: none;
+}
